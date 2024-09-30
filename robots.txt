@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fulskmard.github.io/sitemap.html.gz
+Sitemap: https://fulskmard.github.io/app/sitemap.html.gz
+Sitemap: https://fulskmard.github.io/assets/sitemap.html.gz
+Sitemap: https://fulskmard.github.io/css/sitemap.html.gz
+Sitemap: https://fulskmard.github.io/data/sitemap.html.gz
+Sitemap: https://fulskmard.github.io/includes/sitemap.html.gz
+Sitemap: https://fulskmard.github.io/item/sitemap.html.gz
+Sitemap: https://fulskmard.github.io/src/sitemap.html.gz
